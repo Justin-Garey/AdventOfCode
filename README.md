@@ -1,2 +1,3 @@
 # AdventOfCode
-These are my solutions to the yearly Advent of Code.
+
+I first found Advent of Code in 2020 while at college online. I was in my first semester with a intro to programming class and was like "Yeah this sounds fun!" I ended up only doing one or two problems because it was either too hard or I didn't have the time to do more. I found Advent of Code after participating in *Break the Code* and was hungry for more programmer friendly competitions. Since 2020, I have not done any of the event until now (2023) where I am going to do the daily challenge and go back to do some of the previous ones.
