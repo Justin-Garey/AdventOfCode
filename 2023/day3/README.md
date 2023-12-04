@@ -1,4 +1,4 @@
-# Cube Conundrum
+# Gear Ratios
 
 ## Part 1
 
